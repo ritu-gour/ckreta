@@ -1,0 +1,87 @@
+@media screen and (max-width: 600px){
+    .row.text-center {
+    margin-left: -40px;
+}
+h1.set1 {
+    margin-left: 0px !important;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+}
+h1.set {
+    margin-left: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+h1.set1 {
+    margin-left: -720px;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+p.set {
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+i.i2{
+    color: 	#D3D3D3;
+}
+.i1{
+    font-size: 100px !important;
+}
+span.log{
+   margin-left:10px;
+   color:black;
+}
+.log1{
+  margin-left:-240px;
+  font-size:35px;
+}
+span.f{
+    margin-left:10px;
+    color:black;
+}
+.f1{
+   margin-left:-165px !important;
+   font-size:35px !important;
+}
+
+.f6{
+    margin-left:-165px ;
+    font-size:35px ;
+ }
+
+span.s{
+   margin-left:10px;
+   color:black;
+}
+.s1{
+    margin-left:-220px;font-size:35px;
+}
+span.h{
+   margin-left:10px;color:black;
+}
+.h1{
+   margin-left:-164px;font-size:35px;
+}
+span.n{
+    margin-left:10px;color:black;
+}
+.n1{
+margin-left:-200px;font-size:35px;
+}
+
+
+.p4.n2 {
+    margin-left: -265px !important;
+    font-size: 35px;
+}
+span.t{
+  margin-left:10px;color:black;
+}
+.t1{
+ margin-left:-245px;font-size:35px;
+}

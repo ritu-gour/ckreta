@@ -1,0 +1,10 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^quote/([0-9]+)$ quote.php?trip_id=$1 [L]
+
+
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^pdf/([0-9]+)$ pdf.php/?trip_id=$1 [L]
+
+

@@ -1,0 +1,41 @@
+
+    .column {
+       
+        margin-left: 20rem;
+        width: 40%;
+        padding: 60px 0px;
+    }
+
+   
+    .row {
+        margin: 0 -5px;
+    }
+
+    
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    
+    .card {
+        
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+       
+        padding: 16px;
+        margin: 20px;
+       
+       
+        background-color: #ffffff;
+    }
+
+    /* Responsive columns - one column layout (vertical) on small screens */
+    @media screen and (max-width: 600px) {
+        .column {
+            margin-left: 0rem;
+            width: 100%;
+            display: block;
+            margin-bottom: 20px;
+        }
+    }
